@@ -1,1 +1,1 @@
-int n1,n2,resta;
+int resta(int 1,int 2);
