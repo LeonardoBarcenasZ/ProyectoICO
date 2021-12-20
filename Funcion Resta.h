@@ -1,1 +1,1 @@
-int resta(int 1,int 2);
+int  resta ( int NumeroUno, int NumeroDos);
