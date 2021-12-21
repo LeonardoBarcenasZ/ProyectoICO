@@ -1,7 +1,13 @@
-
-int multiplicar(int NumeroUno, int NumeroDos)
+#include <iostream>
+int main()
 {
-	int multi_de_numeros;
-	multi_de_numeros = NumeroUno * NumeroDos;
-	return(multi_de_numeros);
+    int NumeroUno, NumeroDos, multiplicacion;
+    printf("Introducir una cantidad");
+    scanf("%d", &NumeroUno);
+
+    printf("Introducir una segunda cantidad");
+    scanf("%d", &NumeroDos);
+
+    multiplicacion = NumeroUno * NumeroDos;
+    printf("La respuesta es:%d", multiplicacion);
 }
