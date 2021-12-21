@@ -1,0 +1,1 @@
+int sumar(int NumeroUno, int NumeroDos);

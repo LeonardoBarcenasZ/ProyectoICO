@@ -1,0 +1,1 @@
+int  dividir(int NumeroUno, int NumeroDos);

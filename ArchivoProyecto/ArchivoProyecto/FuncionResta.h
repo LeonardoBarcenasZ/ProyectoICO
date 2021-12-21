@@ -1,0 +1,1 @@
+int restar(int NumeroUno, int NumeroDos);
